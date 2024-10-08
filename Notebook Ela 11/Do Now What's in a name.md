@@ -1,0 +1,1 @@
+My full Name is Romain Jeanty. My first name is basically my older brothers name "Bromain". Honestly i find my name funny which i like it reminds me of the "Romaine Lettuce". ![[Pasted image 20240918102020.png]] I do hate the fact that People add a e to the end of my name.

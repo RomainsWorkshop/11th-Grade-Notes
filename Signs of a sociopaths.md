@@ -1,0 +1,7 @@
+- Lack of empathy
+- Manipulative
+- Ill - Tempered
+- Narcissistic
+- charming
+- strain relationships
+- Enjoy others suffering

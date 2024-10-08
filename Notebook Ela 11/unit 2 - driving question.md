@@ -1,0 +1,1 @@
+how does a community of morally sound people become one that is capable of committing atrocities against eat other

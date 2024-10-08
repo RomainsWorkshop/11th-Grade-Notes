@@ -1,0 +1,1 @@
+"I had a bad idea about this guy". I had a math teacher that went by the name of Macchi He is quite a strange man. 

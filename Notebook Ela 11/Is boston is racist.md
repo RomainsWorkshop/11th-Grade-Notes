@@ -1,0 +1,1 @@
+boston is not really racist there are many people of other races and people there and barely any 

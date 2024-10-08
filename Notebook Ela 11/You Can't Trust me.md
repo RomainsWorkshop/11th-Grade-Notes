@@ -1,0 +1,2 @@
+ "you have to believe me this time its not my fault, I never robbed the bank at the actors".
+ I was accused of robbing a bank that was down the street. yes i am known to rob banks that was not that one because it would be easy to be caught. But because how many time I've robbed banks they think i robbed this one. I've caught a picture of one of the robber.
