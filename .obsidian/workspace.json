@@ -66,9 +66,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c837365b96d029c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notebook Ela 11/Vocab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook Ela 11/Bad Feeling.md",
+                "file": "Notebook Ela 11/Vocab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notebook Ela 11/Bad Feeling.md",
+                "file": "Notebook Ela 11/Vocab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook Ela 11/Bad Feeling.md"
+                "file": "Notebook Ela 11/Vocab.md"
               }
             }
           },
@@ -204,10 +215,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e593dac2a83509c",
+  "active": "fb4472e8daa9fd09",
   "lastOpenFiles": [
-    "Notebook Ela 11/unit 2 - driving question.md",
+    "Notebook Ela 11/Flannery O'Connor.md",
     "Notebook Ela 11/Bad Feeling.md",
+    "Notebook Ela 11/unit 2 - driving question.md",
     "Notebook Ela 11/Not what i expected.md",
     "Math/9-18-2024 unit 1 - function.md",
     "Notebook Ela 11/My Neighborhood.md",
@@ -227,7 +239,7 @@
     "Math/Inverses.md",
     "Math/inverse functions 9-24-2024.md",
     "Assets",
-    "Signs of a sociopaths.md",
+    "Notebook Ela 11/Signs of a sociopaths.md",
     "Assets/Pasted image 20240918102020.png",
     "Untitled.md",
     "Notebook Ela 11/Table Of Context.canvas",
@@ -235,7 +247,6 @@
     "World History/Empethy.md",
     "World History/Text books.md",
     "Untitled",
-    "Vocab 1-19-2024.md",
     "Math",
     "Notebook Ela 11",
     "World History"

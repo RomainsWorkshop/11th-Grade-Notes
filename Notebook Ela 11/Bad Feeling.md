@@ -1,1 +1,1 @@
-"I had a bad idea about this guy". I had a math teacher that went by the name of Macchi He is quite a strange man. 
+"I had a bad idea about this guy". I had a math teacher that went by the name of Macchi He is quite a strange man. Soon near the 2nd term he was found out to being doing drugs in the bathroom. As soon as he was caught he quit the school before the principial caught on.
