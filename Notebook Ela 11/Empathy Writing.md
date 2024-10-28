@@ -1,0 +1,1 @@
+Fear, I feel nothing but fear. what stop demon from reaching us. maybe is the will pray. but does god keep the witches out there curse us away from us.

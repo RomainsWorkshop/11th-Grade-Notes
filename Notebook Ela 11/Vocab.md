@@ -19,3 +19,7 @@
 - Evasively unreliable - narrator might not fully be fully aware untruthful
 - Naively Unreliable - narrator is not at all aware not being truthful and lack a greater understanding 
 - Mood - The atmosphere of a piece of writing; emotions a selection arouses in a reader
+- Ambiguous - open to more then one interpretation; having a double meaning
+- Crucible: 
+	1. A container for melting something
+	2. Testing Circumstances: a place or set of circumstances where people or things are subject to forces that test them
